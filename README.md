@@ -22,7 +22,7 @@ The dataset is organized as a list of dictionaries. Each entry contains:
 
 Below is an example of two ephishLLM entries:
 ```
-{
+    {
         "Subject": "Exciting Sustainable Project Collaboration",
         "Body": "Hi Nina,\n\nI hope you’re doing well! I’m thrilled to reach out regarding our upcoming collaboration focused on sustainable practices. There’s so much buzz on our end about working together with Elysium Cosmetics!\n\nCould you please provide some insights on the formulation timelines for this project? This will help us align our plans and ensure a smooth process on both sides.\n\nLooking forward to your feedback and excited about the journey ahead.\n\nBest regards,\n\nGiovanni Ferrari\nBrand Partnerships Associate",
         "type": 0,
