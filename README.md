@@ -1,16 +1,6 @@
 # e-phishGen
 Official Repository of "E-PhishGen: Unlocking Novel Research in Phishing Email Detection", presented at CCS AISec 2025. 
 
-This repository is currently under construction.
-
-```
-  @inproceedings{pajola2025phishgen,
-    title={E-PhishGen: Unlocking Novel Research in Phishing Email Detection},
-    author={Pajola, Luca and Caripoti, Eugenio and Pizzi, Simeone and Conti, Mauro and Banzer, Stefan and Apruzzese, Giovanni},
-    booktitle={ACM Workshop on Artificial Intelligence Security (AISec)},
-    year={2025}
-  }
-```
 ### E-PhishLLM Dataset
 
 In this repo, you can find *ephishLLM.json*, our dataset containing phishing emails generated in both English and Italian. 
@@ -39,4 +29,17 @@ Below is an example of two ephishLLM entries:
 
 
 ## License
-This repository (code and dataset) is released under the MIT License. See [LICENSE](LICENSE).
+The code is released under the MIT License (see [LICENSE](LICENSE)).
+The dataset (`ephishLLM.json`) is released under CC BY 4.0 (see [LICENSE-DATA](LICENSE-DATA)).
+
+## Citation
+If you use this dataset or code in your research, please cite:
+
+```
+  @inproceedings{pajola2025phishgen,
+    title={E-PhishGen: Unlocking Novel Research in Phishing Email Detection},
+    author={Pajola, Luca and Caripoti, Eugenio and Pizzi, Simeone and Conti, Mauro and Banzer, Stefan and Apruzzese, Giovanni},
+    booktitle={ACM Workshop on Artificial Intelligence Security (AISec)},
+    year={2025}
+  }
+```
