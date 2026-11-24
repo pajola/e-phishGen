@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the paper below."
+title: "E-PhishGen"
+license: [MIT, CC-BY-4.0]
+authors:
+  - {family-names: Pajola, given-names: Luca}
+  - {family-names: Caripoti, given-names: Eugenio}
+  - {family-names: Pizzi, given-names: Simeone}
+  - {family-names: Conti, given-names: Mauro}
+  - {family-names: Banzer, given-names: Stefan}
+  - {family-names: Apruzzese, given-names: Giovanni}
+preferred-citation:
+  type: conference-paper
+  title: "E-PhishGen: Unlocking Novel Research in Phishing Email Detection"
+  authors:
+    - {family-names: Pajola, given-names: Luca}
+    - {family-names: Caripoti, given-names: Eugenio}
+    - {family-names: Pizzi, given-names: Simeone}
+    - {family-names: Conti, given-names: Mauro}
+    - {family-names: Banzer, given-names: Stefan}
+    - {family-names: Apruzzese, given-names: Giovanni}
+  collection-title: "ACM Workshop on Artificial Intelligence Security (AISec)"
+  year: 2025
