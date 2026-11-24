@@ -36,3 +36,7 @@ Below is an example of two ephishLLM entries:
         "Language": "en"
     }
 ```
+
+
+## License
+This repository (code and dataset) is released under the MIT License. See [LICENSE](LICENSE).
